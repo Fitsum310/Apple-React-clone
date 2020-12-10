@@ -21,7 +21,7 @@ class Main extends Component{
 						<div className="row h-100 align-items-center justify-content-center text-center">
 							<div className="col-12">
 								<div className="model">
-									16-inch model..... hey my name is fitsum
+									16-inch model
 								</div>
 
 								<div className="product-title">
